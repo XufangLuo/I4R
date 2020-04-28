@@ -6,9 +6,7 @@ Based on https://github.com/ikostrikov/pytorch-a3c
 # Usage
 
 bash run_baseline.sh
-
 bash run_maxdividemin.sh
-
 bash run_maxminusmin.sh
 
 # Dependencies
